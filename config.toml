@@ -1,0 +1,44 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Empty ship"
+
+theme = "paper"
+
+[params]
+  # color style
+  color = 'wheat'                           # linen, wheat, gray, light
+
+  github = 'github.com/Roj'                 # github.com/YOUR_GITHUB_ID
+  rss = true                                # show rss icon
+
+  # home page profile
+  #avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  name = 'the parable of the astronaut monk'
+  bio = '''
+A monk decides to meditate alone, away from his monastery.  
+He takes his boat out to the middle of the lake. 
+He closes his eyes and begins his meditations.
+The polluted waters cloud his mind and the industrial ships contaminate his ears.
+He decides to build a spaceship and flies deep into the solar system.
+
+After a few days of undisturbed silence, he suddenly feels the crash of another ship colliding with his own.
+The astronaut monk senses his anger rising, and by the time he boards his now-neighbor's ship, he is ready to scream at the traveller who dared disturb his meditation.
+But when he goes inside, he sees it as an empty ship that had probably gotten untethered and floated into space.
+
+At that moment, the monk achieves self-realization, and understands that the anger is within him --
+it merely needs the bump of an external object to provoke it out of him.
+
+If you can empty your own spaceship
+crossing the sea of the universe,
+no one will oppose you,
+no one will seek to harm you.'''
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  #gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  #graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  math = true                               # enable KaTex math typesetting globally
+
+
